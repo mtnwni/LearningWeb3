@@ -1,0 +1,4 @@
+deployed hello world address: 0x61D1f55e509635e94Cb41deEf25271f9b73249c1
+
+to verify contract on enterscan:
+npx hardhat verify --network ropsten 0x61D1f55e509635e94Cb41deEf25271f9b73249c1 'Hello World!'
